@@ -1,0 +1,7 @@
+# config.yaml
+
+epochs: 10000
+train_sample_size: 256
+learning_rate: 0.01
+dataset: moons        
+hidden_dim: 64
